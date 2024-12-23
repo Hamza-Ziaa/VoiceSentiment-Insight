@@ -1,4 +1,4 @@
-https://github.com/Hamza-Ziaa/VoiceSentiment-Insight/blob/6d89fe457fb86646e335a7c1a63418e77dddc322/Project_Name.JPG
+![image alt](https://github.com/Hamza-Ziaa/VoiceSentiment-Insight/blob/6d89fe457fb86646e335a7c1a63418e77dddc322/Project_Name.JPG)
 VoiceSentiment Insight is an advanced project focused on detecting and analyzing sentiment from audio files. By leveraging state-of-the-art machine learning techniques and deep learning models, this repository includes:
 
 Jupyter Notebook: Detailing the sentiment detection process.
