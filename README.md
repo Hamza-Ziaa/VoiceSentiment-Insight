@@ -4,7 +4,7 @@ VoiceSentiment Insight is an advanced project aimed at detecting and analyzing s
 ## Repository Contents
 Jupyter Notebook: This notebook details the entire sentiment detection process, from data preprocessing and feature extraction to model training and evaluation. It provides step-by-step guidance and insights into the methodologies used.
 
-Trained Model: The repository includes an optimized sentiment detection model (Sentiment_Detection_Model.h5) that is ready for deployment in practical applications, ensuring high accuracy and performance.
+### Trained Model: The repository includes an optimized sentiment detection model (Sentiment_Detection_Model.h5) that is ready for deployment in practical applications, ensuring high accuracy and performance.
 
 Deployment Code: Scripts and instructions for deploying the sentiment detection system. These scripts facilitate seamless integration into various applications, enabling users to utilize the model effectively.
 
