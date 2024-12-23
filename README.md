@@ -1,7 +1,7 @@
 # VoiceSentiment Insight
 VoiceSentiment Insight is an advanced project aimed at detecting and analyzing sentiment from audio files. This repository employs state-of-the-art machine learning techniques and deep learning models to deliver comprehensive sentiment analysis solutions.
 
-Repository Contents
+##Repository Contents
 Jupyter Notebook: This notebook details the entire sentiment detection process, from data preprocessing and feature extraction to model training and evaluation. It provides step-by-step guidance and insights into the methodologies used.
 
 Trained Model: The repository includes an optimized sentiment detection model (Sentiment_Detection_Model.h5) that is ready for deployment in practical applications, ensuring high accuracy and performance.
@@ -10,7 +10,7 @@ Deployment Code: Scripts and instructions for deploying the sentiment detection 
 
 Detailed Presentation: An informative presentation that explains the project's methodology, results, and potential applications. It covers the project's objectives, techniques used, and the outcomes achieved.
 
-Key Features
+##Key Features
 Advanced Sentiment Analysis: Utilizes sophisticated techniques to analyze sentiment from audio data, providing nuanced and accurate insights.
 
 Robust Machine Learning and Deep Learning Integration: Combines powerful machine learning and deep learning methodologies to enhance the performance and reliability of the sentiment detection system.
