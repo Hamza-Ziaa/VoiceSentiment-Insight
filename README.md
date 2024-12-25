@@ -19,5 +19,5 @@ Comprehensive Documentation: Provides clear, concise, and detailed documentation
 
 Practical Applications: Designed to be easily deployed in real-world applications, offering valuable tools for sentiment analysis in various domains such as customer service, social media monitoring, and more.
 
-This repository offers a valuable resource for developers and researchers interested in advanced sentiment detection systems using audio inputs. By exploring the content, users can gain a deep understanding of the techniques and models employed, and leverage these tools to create impactful sentiment analysis applications.
+This repository offers a valuable resource for developers and researchers interested in advanced sentiment detection systems using audio inputs. By exploring the content, users can gain a deep understanding of the techniques and models employed, and leverage these tools to create impactful sentiment analysis applications.<br>
 ![image alt](https://github.com/Hamza-Ziaa/VoiceSentiment-Insight/blob/8e74aa7ad4e23a804acd35ccb2bf2b7e04b675d2/Project_Evalation.JPG)
